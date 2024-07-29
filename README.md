@@ -17,3 +17,12 @@ This repository contains a Spotify Web API app that allows users to search for a
 
 - **Spinning Animation**: The Spotify logo spins during searches to give immediate feedback to the user.
 - **Appealing Design**: Features a user-friendly interface with appropriate green styling, reflecting the API being used.
+
+  ## Dependencies
+
+- [Spotify Web API](https://developer.spotify.com/documentation/web-api/) 
+- [React](https://reactjs.org/) 
+- [Express](https://expressjs.com/)
+- [Socket.io](https://socket.io/)
+- [Axios](https://axios-http.com/)
+- [Bootstrap](https://getbootstrap.com/)
